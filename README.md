@@ -32,7 +32,7 @@ https://www.kaggle.com/datasets/mobeenfatimah/diabetes-risk-prediction-dataset-5
 
 ## Key Findings
 - High-risk records accounted for 73.9% of the 10,000 records analyzed.
-- Average HbA1c and BMI increased across Low-, Moderate-, and High-risk categories.
+- Average HbA1c and BMI increased across all three categories: Low, Moderate, and High.
 - Average total cholesterol also increased across the risk categories.
 
 ## Project Files
